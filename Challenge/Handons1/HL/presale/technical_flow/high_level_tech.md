@@ -1,4 +1,4 @@
-1. System Architecture Overview
+*1. System Architecture Overview*
 
 graph TD
   User -->|Uses| MobileApp
